@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi! My name is Abdulkadir and I’m currently a student at NBI/Handelsakademin.
 
-<!--
-**dadirhashi/dadirhashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 What do I want to learn?
 
-Here are some ideas to get you started:
+During this program, I want to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Understand the fundamentals of programming, especially C#
+Learn how to build web applications
+Get comfortable using Git and GitHub
+Explore databases and back-end development
+Improve my problem-solving skills through coding
+🎨 My interests
+
+When I’m not coding, I enjoy:
+
+Playing football ⚽
+Exploring new technology 💡
+Spending time with friends and family 👨‍👩‍👧‍👦
+Learning new things – both inside and outside the world of IT 🌍
